@@ -1,25 +1,30 @@
-## Hi there 👋
-# Main
+# Hi there, I'm Vadim (toHellForThem)! 👋
 
-My name is Vadim. I'm a novice developer, I'm currently taking an AI development course. I graduated from college with a degree in software engineering. In college, I got to know the main points of web application development.
+I am a Full-Stack Developer passionate about building cross-platform applications and robust backend architectures. I love tackling complex technical challenges, such as real-time data synchronization and offline-first systems.
 
-This is a list of what I understand:
-- JavaScript
-- PHP
-- MySQL
-- Python(learning)
+### 🛠 My Tech Stack
+*   **Frontend:** TypeScript, JavaScript, React, React Native (Expo), React Native Web
+*   **Backend:** Python, FastAPI, Socket.io, JWT
+*   **Databases:** SQLite, aiosqlite, react-native-mmkv
+*   **Tools & Build:** Git, JKS Generation, APK/AAB Builds
 
-# My experience
+---
 
-My first project was a static website from scratch. It was an online store based on simple knowledge of HTML and CSS, then I managed to make a pretty beautiful page. That was 5 years ago.
-Then I started solving problems in PHP, it was like the first real programming.
-The second project was a graduation project. I made a website on a Wordpress cms, but due to ignorance of JS, I was only able to run it on a local server.
-The third project was a visual novel website and was to be made as a birthday gift to a girl. In a week, I created a static website, as well as added several mini-games and made up a plot. There, I used the knowledge of JS that I had accumulated over 3 months of independent study.
-The first serious project that can add to my portfolio is the snake website with a rating system and advanced customization. I made the snake's body have a distorted frame when rotated, which was created by itself from a custom substrate. I liked the idea from the last project, where nothing was appreciated.
+### 🚀 Featured Project: ToDoSoDo
 
-# A little more about me
+**[ToDoSoDo](https://github.com/toHellForThem/smart-todo)** is a cross-platform (Android/Windows) task management application with a unique RPG mode. 
 
-I like to create something. To do something of my own from the knowledge I have accumulated. Cross them to get new discoveries, at least for myself, but I hope to make a new discovery in the field of programming. If I can, of course)
+**Key Features:**
+- 🔌 **Offline-first architecture:** The app works seamlessly without an internet connection using `react-native-mmkv` and a local database, syncing in the background when the network is available.
+- ⚡ **Real-time synchronization:** Instant data exchange across devices via WebSockets, featuring a custom data versioning algorithm to resolve merge conflicts.
+- 🏗 **Custom Backend:** Asynchronous Python server powered by FastAPI and non-blocking SQLite (WAL mode).
+- 📦 **Native Builds:** Independently configured JKS keys and production builds for Android (APK and AAB formats).
+
+
+
+---
+*Always open to new challenges and interesting projects!* 📫
+
 
 <!--
 **toHellForThem/toHellForThem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
