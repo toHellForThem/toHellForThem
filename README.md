@@ -3,9 +3,9 @@
 I am a Full-Stack Developer passionate about building cross-platform applications and robust backend architectures. I love tackling complex technical challenges, such as real-time data synchronization and offline-first systems.
 
 ### 🛠 My Tech Stack
-*   **Frontend:** TypeScript, JavaScript, React, React Native (Expo), React Native Web
-*   **Backend:** Python, FastAPI, Socket.io, JWT
-*   **Databases:** SQLite, aiosqlite, react-native-mmkv
+*   **Frontend:** TypeScript, JavaScript, React, React Native (Expo), React Native Web, react-native-mmkv
+*   **Backend:** Python, FastAPI, aiosqlite, Socket.io, JWT
+*   **Databases:** SQLite
 *   **Tools & Build:** Git, JKS Generation, APK/AAB Builds
 
 ---
@@ -24,6 +24,7 @@ I am a Full-Stack Developer passionate about building cross-platform application
 
 ---
 *Always open to new challenges and interesting projects!* 📫
+
 
 
 <!--
